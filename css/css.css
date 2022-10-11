@@ -1,0 +1,35 @@
+html{
+	background-color: #DBF9FC;
+}
+#imgvg{
+	width: 90%;
+	height: 25%;
+	display: block;
+    margin: 0 auto;
+}
+
+#imgdep{
+	width: 30%;
+	height: 25%;
+	display: block;
+    margin: 0 auto;
+}
+
+#deporte{
+	background-color: yellowgreen;
+}
+#video{
+	background-color: greenyellow;
+}
+#cancion{
+	background-color: powderblue;
+}
+video{
+	content-align: center;
+    display: block;
+	margin: 0 auto;
+}
+
+footer{
+	text-align: center;
+}
