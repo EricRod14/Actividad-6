@@ -1,5 +1,5 @@
 html{
-	background-color: #DBF9FC;
+	background-color: #FF0000;
 }
 #imgvg{
 	width: 90%;
@@ -17,12 +17,18 @@ html{
 
 #deporte{
 	background-color: yellowgreen;
+	border-color: red;
+	border-style: ridge;
 }
 #video{
 	background-color: greenyellow;
+	border-color: green;
+	border-style: ridge;
 }
 #cancion{
 	background-color: powderblue;
+	border-color:  blue;
+	border-style: ridge;
 }
 video{
 	content-align: center;
